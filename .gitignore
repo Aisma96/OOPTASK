@@ -1,1 +1,2 @@
-test_test.py
+# Ignore log files
+*.log
